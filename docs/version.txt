@@ -1,0 +1,40 @@
+Title
+
+Transition Graphs of Consecutive Prime Gaps:
+Observed Missing Transitions and Three Forbidden Cases
+
+Author
+
+Ciro Coppola
+
+Location
+
+Rome, Italy
+
+Public Release
+
+Version 1.0
+
+Year
+
+2026
+
+Main Contributions
+
+1. Prime Gap Transition Graph.
+
+2. Missing Transition classification.
+
+3. Forbidden Transition framework.
+
+4. Proofs of impossibility for:
+
+   2 -> 8
+
+   2 -> 14
+
+   4 -> 10
+
+Published Document
+
+prime gaps_COPPOLA_CIRO_ROME_ITALY.pdf
