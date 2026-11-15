@@ -28,7 +28,7 @@ Repository Contents
 paper/
 Contains the public manuscript:
 
-prime gaps_COPPOLA_CIRO_ROME_ITALY.pdf
+prime gaps_COPPOLA_CIRO_ROME_ITALY_v1.2.pdf
 docs/
 Contains version information and project notes.
 
